@@ -1,0 +1,6 @@
+cn\huanzi\qch\zuul\zuulserver\filter\AccessFilter.class
+cn\huanzi\qch\zuul\zuulserver\feign\SsoFeign$SsoFeignFallback.class
+cn\huanzi\qch\zuul\zuulserver\feign\SsoFeign$SsoFeignFallbackFactory.class
+cn\huanzi\qch\zuul\zuulserver\ZuulServerApplication.class
+cn\huanzi\qch\zuul\zuulserver\feign\SsoFeign.class
+cn\huanzi\qch\zuul\zuulserver\util\RateLimiter.class

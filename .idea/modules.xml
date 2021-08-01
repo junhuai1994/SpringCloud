@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-a/service-a.iml" filepath="$PROJECT_DIR$/service-a/service-a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-b1/service-b1.iml" filepath="$PROJECT_DIR$/service-b1/service-b1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-b2/service-b2.iml" filepath="$PROJECT_DIR$/service-b2/service-b2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-c/service-c.iml" filepath="$PROJECT_DIR$/service-c/service-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/sso-server/sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlcn-tm/txlcn-tm.iml" filepath="$PROJECT_DIR$/txlcn-tm/txlcn-tm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>

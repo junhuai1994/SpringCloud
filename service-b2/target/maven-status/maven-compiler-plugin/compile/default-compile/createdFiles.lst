@@ -1,0 +1,7 @@
+cn\huanzi\qch\serviceb2\MyEnvironmentPostProcessor.class
+cn\huanzi\qch\serviceb2\service\TestService.class
+cn\huanzi\qch\serviceb2\service\TestServiceImpl.class
+cn\huanzi\qch\serviceb2\ServiceB2Application.class
+cn\huanzi\qch\serviceb2\pojo\TbDescription.class
+cn\huanzi\qch\serviceb2\controller\TestController.class
+cn\huanzi\qch\serviceb2\RibbonConfig.class

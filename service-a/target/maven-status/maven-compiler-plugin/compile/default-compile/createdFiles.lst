@@ -1,0 +1,13 @@
+cn\huanzi\qch\servicea\feign\CFeign.class
+cn\huanzi\qch\servicea\feign\CFeignFallbackFactory.class
+cn\huanzi\qch\servicea\ServiceAApplication.class
+cn\huanzi\qch\servicea\feign\BFeignFallbackFactory$1.class
+cn\huanzi\qch\servicea\service\TestServiceImpl.class
+cn\huanzi\qch\servicea\controller\TestController.class
+cn\huanzi\qch\servicea\feign\BFeignFallbackFactory.class
+cn\huanzi\qch\servicea\MyEnvironmentPostProcessor.class
+cn\huanzi\qch\servicea\feign\BFeign.class
+cn\huanzi\qch\servicea\feign\CFeignFallbackFactory$1.class
+cn\huanzi\qch\servicea\pojo\TbUser.class
+cn\huanzi\qch\servicea\service\TestService.class
+cn\huanzi\qch\servicea\pojo\TbDescription.class

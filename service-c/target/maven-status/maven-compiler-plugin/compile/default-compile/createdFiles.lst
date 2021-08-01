@@ -1,0 +1,6 @@
+cn\huanzi\qch\servicec\pojo\TbDescription.class
+cn\huanzi\qch\servicec\service\TestService.class
+cn\huanzi\qch\servicec\MyEnvironmentPostProcessor.class
+cn\huanzi\qch\servicec\service\TestServiceImpl.class
+cn\huanzi\qch\servicec\ServiceCApplication.class
+cn\huanzi\qch\servicec\controller\TestController.class
